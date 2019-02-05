@@ -1,0 +1,12 @@
+requests==2.21.0
+aiofiles==0.4.0
+aiohttp==3.5.4
+beautifulsoup4==4.7.1
+colorthief==0.2.1
+discord==0.16.12
+emoji==0.5.1
+numpy==1.16.1
+psutil==5.5.0
+rethinkdb==2.3.0.post6
+typing==3.6.6
+-e https://github.com/Rapptz/discord.py/archive/rewrite.zip#egg=discord.py[voice]

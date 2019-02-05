@@ -1,0 +1,21 @@
+{
+  "owners": [
+"248294452307689473"
+  ],
+  "home": "440526421388165120",
+  "db": "yes_daddy",
+  "tables": [
+    "guilds",
+    "users"
+  ],
+  "prefixes": [
+    "yd",
+    "!",
+    "!!"
+  ],
+  "dm_prefix": [
+    "!",
+    "yd"
+  ],
+  "debug_prefix": "!"
+}
