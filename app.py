@@ -14,7 +14,7 @@ description = "a bot"
 class Bot(AutoShardedBot):
     def __init__(self):
         atexit.register(shut_down, self)
-        message = 'dhelp | dinvite'
+        message = 'ydhelp | ydinvite'
         sgame = discord.Game(name=message, type=0)
         super().__init__(command_prefix=get_prefix, game=sgame, description=description)
         setup_bot(self)
