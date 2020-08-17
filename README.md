@@ -11,7 +11,7 @@ This Repository is meant for education and allowing people to improve the curren
 
 ## Built With
 
-* [discord.py](https://github.com/Rapptz/discord.py) - The Python micro framework for building web applications.
+* [discord.py](https://github.com/Rapptz/discord.py) - A Python library providing coverage of [the Discord API](https://discord.com/developers/docs/intro).
 
 ## Contributing
 
@@ -20,5 +20,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## License
 
 This project is licensed under the AGPL-3.0 License - see the [LICENSE](LICENSE) file for details
-
-
