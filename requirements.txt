@@ -1,6 +1,6 @@
 requests==2.21.0
 aiofiles==0.4.0
-aiohttp==3.5.4
+aiohttp==3.7.4
 beautifulsoup4==4.7.1
 colorthief==0.2.1
 discord==0.16.12
